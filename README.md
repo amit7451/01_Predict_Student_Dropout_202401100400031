@@ -34,6 +34,7 @@ Build a classification model to predict whether a student is at risk of dropping
 
 3. **Visualization**
    - Confusion matrix displayed using seaborn heatmap
+   - 
 
 ## 🧾 Installation
 
@@ -41,6 +42,7 @@ To run this project in Google Colab or locally, make sure you have the following
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
+
 
 
 
