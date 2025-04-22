@@ -44,27 +44,6 @@ pip install pandas scikit-learn matplotlib seaborn
 
 
 
-📸 Results
-The model was evaluated using the following metrics:
 
-Accuracy: ✅
-
-Precision: ✅
-
-Recall: ✅
-
-Confusion matrix visualized via heatmap
-
-
-
-
-
-🙌 Contributions
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-📚 References
-Dataset: Custom student data (shared manually)
-
-Libraries: scikit-learn, pandas, seaborn, matplotlib
 
 
